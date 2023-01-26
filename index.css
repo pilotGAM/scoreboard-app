@@ -1,0 +1,32 @@
+
+body {
+    margin: 0;
+    background-color: #111827;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container2 {
+    margin-top: 10px;
+}
+
+#home-score, #guest-score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+
+button {
+    color: #9AABD8;
+    background-color: #111827;
+    padding: 12px 10px 12px 10px;
+    border: 2px solid #9AABD8;
+    border-radius: 10px;
+}
